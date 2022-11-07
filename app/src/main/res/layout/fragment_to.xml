@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ToFragment">
+
+    <TextView
+        android:layout_width="312dp"
+        android:layout_height="361dp"
+        android:layout_gravity="center_vertical|center_horizontal"
+        android:text="TO atau Teknik Otomatif merupakan kolaborasi ilmu pengetahuan mekanik,listrik, elektronik, matematika, dan manajemen. jurusan Teknik Otomotif belajar tentang merancang, membuat, dan mengembangkan alat-alat transportasi darat yang menggunakan mesin,terutama sepeda motor, bis, dan truk."
+        android:textColor="#F35B50"
+        android:textSize="24sp"
+        android:textStyle="bold" />
+
+</FrameLayout>

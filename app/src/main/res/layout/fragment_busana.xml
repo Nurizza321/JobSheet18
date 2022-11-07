@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="BUSANAFragment">
+
+    <TextView
+        android:layout_width="312dp"
+        android:layout_height="361dp"
+        android:layout_gravity="center_vertical|center_horizontal"
+        android:text="Jurusan BUSANA adalah jurusan yang diperuntukkan bagi mereka yang ingin mengembangkan bakat dan minatnya dalam hal jahit menjahit, sampai dengan  membuat produk yang berkualitas. Pda intinya jurusan ini mengakomodir para siswa yang memiliki minat dalam hal fashion."
+        android:textColor="#673AB7"
+        android:textSize="24sp"
+        android:textStyle="bold" />
+
+</FrameLayout>
